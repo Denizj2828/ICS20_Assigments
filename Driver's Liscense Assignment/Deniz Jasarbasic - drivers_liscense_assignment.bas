@@ -1,4 +1,4 @@
-'ICS20 Period 2 - 2019/02/19 - Deniz Jasarbasic - Driver's License Program
+'ICS20 Period 2 - 2019/02/19 - Deniz Jasarbasic - Driver's License and average level Program
 'This program determines whether the user can get a driver's license  
 'It also determines the user's grade level based on the user's input information
 
