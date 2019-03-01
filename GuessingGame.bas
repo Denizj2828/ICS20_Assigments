@@ -17,6 +17,7 @@ RangeNumber_1 = 0
 RangeNumber_2 = 0
 user_Answer = 0
 play_Again = "y"
+random_Number = 0
 
 'User interface that greets the user and introduces them to the guessing game
 Print tab(45); "Welcome to My Guessing Game."
