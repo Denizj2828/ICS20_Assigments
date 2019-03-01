@@ -52,11 +52,11 @@ While play_Again = "Y" or play_Again = "y"
             cls            
             If user_Answer > random_Number then
                 Color 4
-                Print "You are wrong ... too high."
+                Print "You are wrong ... too high."     'Gives the user an indication of being too hight  
                 
             ElseIf user_Answer < random_Number then
                 Color 4
-                Print "You are wrong ... too low."
+                Print "You are wrong ... too low."       'Gives the user an indication of being too low
             End If
             Sleep 500
             
@@ -71,7 +71,7 @@ While play_Again = "Y" or play_Again = "y"
         Print "You are correct!"
     Sleep 700
     Color 7
-    Input "Do you want to play again (y/n)", play_again
+        Input "Do you want to play again (y/n)", play_again 'Play again loop, letting the user restart the game
     cls
 Wend
 Sleep 700
