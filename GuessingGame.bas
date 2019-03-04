@@ -37,8 +37,7 @@ While play_Again = "Y" or play_Again = "y"
     'Determines a random number between the numbers the user selected
     random_Number = int(Rnd*((RangeNumber_2 + 1) - RangeNumber_1) + RangeNumber_1)
     
-    'Now that all the informations has been registered, the game may begin!    
-    Print random_Number
+    'Now that all the informations has been registered, the game may begin!   
     Print " "
     
     Print "Great, now let's Play!"
